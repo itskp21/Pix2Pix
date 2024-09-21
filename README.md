@@ -16,11 +16,11 @@ PatchGAN Discriminator: Instead of classifying the entire image as real or fake,
 Prerequisites
 
 ## Requirements
-Python 3.x
-CUDA (for GPU acceleration)
+* Python 3.x
+* CUDA (for GPU acceleration)
 Python Libraries:
-numpy
-matplotlib
-opencv-python
-Pytorch
-tqdm
+* numpy
+* matplotlib
+* opencv-python
+* Pytorch
+* tqdm
